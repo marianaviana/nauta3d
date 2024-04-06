@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+  <iframe width="100%" height="100%" style="overflow:hidden;height:100vh;width:100vw;border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/marianaviana/nauta3d/c3706b6dcf97821d768d5432aa171701c3c16c4c/seahawk.stl">
+</iframe>
+</body>
+</html>
